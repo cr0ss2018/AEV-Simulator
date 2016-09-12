@@ -1,0 +1,725 @@
+fileFormatVersion: 2
+guid: 753d36b2e06072147b8472fe03c31d7c
+timeCreated: 1459967353
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Assem1 - 90-deg bracket-1
+    100004: Assem1 - 90-deg bracket-2
+    100006: Assem1 - 90-deg bracket-3
+    100008: Assem1 - AEV Motor-1
+    100010: Assem1 - Arduino-1
+    100012: Assem1 - Battery Pack Clamp Plate Narrow-1
+    100014: Assem1 - Battery Pack-1 Battery Sleeve-1
+    100016: Assem1 - Battery Pack-1 Battery-1
+    100018: Assem1 - Battery Pack-1 Battery-2
+    100020: Assem1 - Battery Pack-1 Kapton Tape-1
+    100022: Assem1 - Battery Spacer-1
+    100024: Assem1 - Battery Spacer-2
+    100026: Assem1 - Battery Spacer-3
+    100028: Assem1 - Battery Spacer-4
+    100030: Assem1 - hex bolt ai-1
+    100032: Assem1 - hex bolt ai-2
+    100034: Assem1 - Large Rectangle-4
+    100036: Assem1 - machine screw nut hex ai-10
+    100038: Assem1 - machine screw nut hex ai-11
+    100040: Assem1 - machine screw nut hex ai-12
+    100042: Assem1 - machine screw nut hex ai-14
+    100044: Assem1 - machine screw nut hex ai-15
+    100046: Assem1 - machine screw nut hex ai-16
+    100048: Assem1 - machine screw nut hex ai-17
+    100050: Assem1 - machine screw nut hex ai-18
+    100052: Assem1 - machine screw nut hex ai-19
+    100054: Assem1 - machine screw nut hex ai-2
+    100056: Assem1 - machine screw nut hex ai-3
+    100058: Assem1 - machine screw nut hex ai-4
+    100060: Assem1 - machine screw nut hex ai-5
+    100062: Assem1 - machine screw nut hex ai-6
+    100064: Assem1 - machine screw nut hex ai-7
+    100066: Assem1 - machine screw nut hex ai-8
+    100068: Assem1 - machine screw nut hex ai-9
+    100070: Assem1 - Motor Mount Clip Aluminum-1
+    100072: Assem1 - pan slot head ai-1
+    100074: Assem1 - pan slot head ai-10
+    100076: Assem1 - pan slot head ai-11
+    100078: Assem1 - pan slot head ai-12
+    100080: Assem1 - pan slot head ai-13
+    100082: Assem1 - pan slot head ai-14
+    100084: Assem1 - pan slot head ai-15
+    100086: Assem1 - pan slot head ai-2
+    100088: Assem1 - pan slot head ai-3
+    100090: Assem1 - pan slot head ai-4
+    100092: Assem1 - pan slot head ai-5
+    100094: Assem1 - pan slot head ai-6
+    100096: Assem1 - pan slot head ai-7
+    100098: Assem1 - pan slot head ai-8
+    100100: Assem1 - pan slot head ai-9
+    100102: Assem1 - Prop 3inch-1
+    100104: Assem1 - Pulley Assembly w-reflective tape-1 Ball Retainer Inne
+    100106: Assem1 - Pulley Assembly w-reflective tape-1 Ball Retainer Oute
+    100108: Assem1 - Pulley Assembly w-reflective tape-1 Ball-1
+    100110: Assem1 - Pulley Assembly w-reflective tape-1 Ball-13
+    100112: Assem1 - Pulley Assembly w-reflective tape-1 Ball-25
+    100114: Assem1 - Pulley Assembly w-reflective tape-1 Ball-26
+    100116: Assem1 - Pulley Assembly w-reflective tape-1 Ball-27
+    100118: Assem1 - Pulley Assembly w-reflective tape-1 Ball-28
+    100120: Assem1 - Pulley Assembly w-reflective tape-1 Ball-29
+    100122: Assem1 - Pulley Assembly w-reflective tape-1 Ball-30
+    100124: Assem1 - Pulley Assembly w-reflective tape-1 Ball-31
+    100126: Assem1 - Pulley Assembly w-reflective tape-1 Ball-32
+    100128: Assem1 - Pulley Assembly w-reflective tape-1 Ball-33
+    100130: Assem1 - Pulley Assembly w-reflective tape-1 Ball-34
+    100132: Assem1 - Pulley Assembly w-reflective tape-1 Ball-35
+    100134: Assem1 - Pulley Assembly w-reflective tape-1 Ball-36
+    100136: Assem1 - Pulley Assembly w-reflective tape-1 Ball-37
+    100138: Assem1 - Pulley Assembly w-reflective tape-1 Ball-38
+    100140: Assem1 - Pulley Assembly w-reflective tape-1 Ball-39
+    100142: Assem1 - Pulley Assembly w-reflective tape-1 Ball-40
+    100144: Assem1 - Pulley Assembly w-reflective tape-1 Ball-41
+    100146: Assem1 - Pulley Assembly w-reflective tape-1 Ball-42
+    100148: Assem1 - Pulley Assembly w-reflective tape-1 Ball-43
+    100150: Assem1 - Pulley Assembly w-reflective tape-1 Ball-44
+    100152: Assem1 - Pulley Assembly w-reflective tape-1 Ball-45
+    100154: Assem1 - Pulley Assembly w-reflective tape-1 Ball-46
+    100156: Assem1 - Pulley Assembly w-reflective tape-1 Housing w-reflecti
+    100158: Assem1 - Pulley Assembly-1 Ball Retainer Inner Sleeve-1
+    100160: Assem1 - Pulley Assembly-1 Ball Retainer Outer Sleeve-1
+    100162: Assem1 - Pulley Assembly-1 Ball-1
+    100164: Assem1 - Pulley Assembly-1 Ball-10
+    100166: Assem1 - Pulley Assembly-1 Ball-11
+    100168: Assem1 - Pulley Assembly-1 Ball-12
+    100170: Assem1 - Pulley Assembly-1 Ball-13
+    100172: Assem1 - Pulley Assembly-1 Ball-14
+    100174: Assem1 - Pulley Assembly-1 Ball-15
+    100176: Assem1 - Pulley Assembly-1 Ball-16
+    100178: Assem1 - Pulley Assembly-1 Ball-17
+    100180: Assem1 - Pulley Assembly-1 Ball-18
+    100182: Assem1 - Pulley Assembly-1 Ball-19
+    100184: Assem1 - Pulley Assembly-1 Ball-2
+    100186: Assem1 - Pulley Assembly-1 Ball-20
+    100188: Assem1 - Pulley Assembly-1 Ball-21
+    100190: Assem1 - Pulley Assembly-1 Ball-22
+    100192: Assem1 - Pulley Assembly-1 Ball-23
+    100194: Assem1 - Pulley Assembly-1 Ball-24
+    100196: Assem1 - Pulley Assembly-1 Ball-3
+    100198: Assem1 - Pulley Assembly-1 Ball-4
+    100200: Assem1 - Pulley Assembly-1 Ball-5
+    100202: Assem1 - Pulley Assembly-1 Ball-6
+    100204: Assem1 - Pulley Assembly-1 Ball-7
+    100206: Assem1 - Pulley Assembly-1 Ball-8
+    100208: Assem1 - Pulley Assembly-1 Ball-9
+    100210: Assem1 - Pulley Assembly-1 Housing-1
+    100212: Assem1 - Rotation Sensor Board-1
+    100214: Assem1 - Rotation Sensor Board-2
+    100216: Assem1 - Support Arm 1 2 Sensor Holes V2-1
+    100218: Camera
+    100220: Lamp
+    400000: //RootNode
+    400002: Assem1 - 90-deg bracket-1
+    400004: Assem1 - 90-deg bracket-2
+    400006: Assem1 - 90-deg bracket-3
+    400008: Assem1 - AEV Motor-1
+    400010: Assem1 - Arduino-1
+    400012: Assem1 - Battery Pack Clamp Plate Narrow-1
+    400014: Assem1 - Battery Pack-1 Battery Sleeve-1
+    400016: Assem1 - Battery Pack-1 Battery-1
+    400018: Assem1 - Battery Pack-1 Battery-2
+    400020: Assem1 - Battery Pack-1 Kapton Tape-1
+    400022: Assem1 - Battery Spacer-1
+    400024: Assem1 - Battery Spacer-2
+    400026: Assem1 - Battery Spacer-3
+    400028: Assem1 - Battery Spacer-4
+    400030: Assem1 - hex bolt ai-1
+    400032: Assem1 - hex bolt ai-2
+    400034: Assem1 - Large Rectangle-4
+    400036: Assem1 - machine screw nut hex ai-10
+    400038: Assem1 - machine screw nut hex ai-11
+    400040: Assem1 - machine screw nut hex ai-12
+    400042: Assem1 - machine screw nut hex ai-14
+    400044: Assem1 - machine screw nut hex ai-15
+    400046: Assem1 - machine screw nut hex ai-16
+    400048: Assem1 - machine screw nut hex ai-17
+    400050: Assem1 - machine screw nut hex ai-18
+    400052: Assem1 - machine screw nut hex ai-19
+    400054: Assem1 - machine screw nut hex ai-2
+    400056: Assem1 - machine screw nut hex ai-3
+    400058: Assem1 - machine screw nut hex ai-4
+    400060: Assem1 - machine screw nut hex ai-5
+    400062: Assem1 - machine screw nut hex ai-6
+    400064: Assem1 - machine screw nut hex ai-7
+    400066: Assem1 - machine screw nut hex ai-8
+    400068: Assem1 - machine screw nut hex ai-9
+    400070: Assem1 - Motor Mount Clip Aluminum-1
+    400072: Assem1 - pan slot head ai-1
+    400074: Assem1 - pan slot head ai-10
+    400076: Assem1 - pan slot head ai-11
+    400078: Assem1 - pan slot head ai-12
+    400080: Assem1 - pan slot head ai-13
+    400082: Assem1 - pan slot head ai-14
+    400084: Assem1 - pan slot head ai-15
+    400086: Assem1 - pan slot head ai-2
+    400088: Assem1 - pan slot head ai-3
+    400090: Assem1 - pan slot head ai-4
+    400092: Assem1 - pan slot head ai-5
+    400094: Assem1 - pan slot head ai-6
+    400096: Assem1 - pan slot head ai-7
+    400098: Assem1 - pan slot head ai-8
+    400100: Assem1 - pan slot head ai-9
+    400102: Assem1 - Prop 3inch-1
+    400104: Assem1 - Pulley Assembly w-reflective tape-1 Ball Retainer Inne
+    400106: Assem1 - Pulley Assembly w-reflective tape-1 Ball Retainer Oute
+    400108: Assem1 - Pulley Assembly w-reflective tape-1 Ball-1
+    400110: Assem1 - Pulley Assembly w-reflective tape-1 Ball-13
+    400112: Assem1 - Pulley Assembly w-reflective tape-1 Ball-25
+    400114: Assem1 - Pulley Assembly w-reflective tape-1 Ball-26
+    400116: Assem1 - Pulley Assembly w-reflective tape-1 Ball-27
+    400118: Assem1 - Pulley Assembly w-reflective tape-1 Ball-28
+    400120: Assem1 - Pulley Assembly w-reflective tape-1 Ball-29
+    400122: Assem1 - Pulley Assembly w-reflective tape-1 Ball-30
+    400124: Assem1 - Pulley Assembly w-reflective tape-1 Ball-31
+    400126: Assem1 - Pulley Assembly w-reflective tape-1 Ball-32
+    400128: Assem1 - Pulley Assembly w-reflective tape-1 Ball-33
+    400130: Assem1 - Pulley Assembly w-reflective tape-1 Ball-34
+    400132: Assem1 - Pulley Assembly w-reflective tape-1 Ball-35
+    400134: Assem1 - Pulley Assembly w-reflective tape-1 Ball-36
+    400136: Assem1 - Pulley Assembly w-reflective tape-1 Ball-37
+    400138: Assem1 - Pulley Assembly w-reflective tape-1 Ball-38
+    400140: Assem1 - Pulley Assembly w-reflective tape-1 Ball-39
+    400142: Assem1 - Pulley Assembly w-reflective tape-1 Ball-40
+    400144: Assem1 - Pulley Assembly w-reflective tape-1 Ball-41
+    400146: Assem1 - Pulley Assembly w-reflective tape-1 Ball-42
+    400148: Assem1 - Pulley Assembly w-reflective tape-1 Ball-43
+    400150: Assem1 - Pulley Assembly w-reflective tape-1 Ball-44
+    400152: Assem1 - Pulley Assembly w-reflective tape-1 Ball-45
+    400154: Assem1 - Pulley Assembly w-reflective tape-1 Ball-46
+    400156: Assem1 - Pulley Assembly w-reflective tape-1 Housing w-reflecti
+    400158: Assem1 - Pulley Assembly-1 Ball Retainer Inner Sleeve-1
+    400160: Assem1 - Pulley Assembly-1 Ball Retainer Outer Sleeve-1
+    400162: Assem1 - Pulley Assembly-1 Ball-1
+    400164: Assem1 - Pulley Assembly-1 Ball-10
+    400166: Assem1 - Pulley Assembly-1 Ball-11
+    400168: Assem1 - Pulley Assembly-1 Ball-12
+    400170: Assem1 - Pulley Assembly-1 Ball-13
+    400172: Assem1 - Pulley Assembly-1 Ball-14
+    400174: Assem1 - Pulley Assembly-1 Ball-15
+    400176: Assem1 - Pulley Assembly-1 Ball-16
+    400178: Assem1 - Pulley Assembly-1 Ball-17
+    400180: Assem1 - Pulley Assembly-1 Ball-18
+    400182: Assem1 - Pulley Assembly-1 Ball-19
+    400184: Assem1 - Pulley Assembly-1 Ball-2
+    400186: Assem1 - Pulley Assembly-1 Ball-20
+    400188: Assem1 - Pulley Assembly-1 Ball-21
+    400190: Assem1 - Pulley Assembly-1 Ball-22
+    400192: Assem1 - Pulley Assembly-1 Ball-23
+    400194: Assem1 - Pulley Assembly-1 Ball-24
+    400196: Assem1 - Pulley Assembly-1 Ball-3
+    400198: Assem1 - Pulley Assembly-1 Ball-4
+    400200: Assem1 - Pulley Assembly-1 Ball-5
+    400202: Assem1 - Pulley Assembly-1 Ball-6
+    400204: Assem1 - Pulley Assembly-1 Ball-7
+    400206: Assem1 - Pulley Assembly-1 Ball-8
+    400208: Assem1 - Pulley Assembly-1 Ball-9
+    400210: Assem1 - Pulley Assembly-1 Housing-1
+    400212: Assem1 - Rotation Sensor Board-1
+    400214: Assem1 - Rotation Sensor Board-2
+    400216: Assem1 - Support Arm 1 2 Sensor Holes V2-1
+    400218: Camera
+    400220: Lamp
+    2300000: Assem1 - 90-deg bracket-1
+    2300002: Assem1 - 90-deg bracket-2
+    2300004: Assem1 - 90-deg bracket-3
+    2300006: Assem1 - AEV Motor-1
+    2300008: Assem1 - Arduino-1
+    2300010: Assem1 - Battery Pack Clamp Plate Narrow-1
+    2300012: Assem1 - Battery Pack-1 Battery Sleeve-1
+    2300014: Assem1 - Battery Pack-1 Battery-1
+    2300016: Assem1 - Battery Pack-1 Battery-2
+    2300018: Assem1 - Battery Pack-1 Kapton Tape-1
+    2300020: Assem1 - Battery Spacer-1
+    2300022: Assem1 - Battery Spacer-2
+    2300024: Assem1 - Battery Spacer-3
+    2300026: Assem1 - Battery Spacer-4
+    2300028: Assem1 - hex bolt ai-1
+    2300030: Assem1 - hex bolt ai-2
+    2300032: Assem1 - Large Rectangle-4
+    2300034: Assem1 - machine screw nut hex ai-10
+    2300036: Assem1 - machine screw nut hex ai-11
+    2300038: Assem1 - machine screw nut hex ai-12
+    2300040: Assem1 - machine screw nut hex ai-14
+    2300042: Assem1 - machine screw nut hex ai-15
+    2300044: Assem1 - machine screw nut hex ai-16
+    2300046: Assem1 - machine screw nut hex ai-17
+    2300048: Assem1 - machine screw nut hex ai-18
+    2300050: Assem1 - machine screw nut hex ai-19
+    2300052: Assem1 - machine screw nut hex ai-2
+    2300054: Assem1 - machine screw nut hex ai-3
+    2300056: Assem1 - machine screw nut hex ai-4
+    2300058: Assem1 - machine screw nut hex ai-5
+    2300060: Assem1 - machine screw nut hex ai-6
+    2300062: Assem1 - machine screw nut hex ai-7
+    2300064: Assem1 - machine screw nut hex ai-8
+    2300066: Assem1 - machine screw nut hex ai-9
+    2300068: Assem1 - Motor Mount Clip Aluminum-1
+    2300070: Assem1 - pan slot head ai-1
+    2300072: Assem1 - pan slot head ai-10
+    2300074: Assem1 - pan slot head ai-11
+    2300076: Assem1 - pan slot head ai-12
+    2300078: Assem1 - pan slot head ai-13
+    2300080: Assem1 - pan slot head ai-14
+    2300082: Assem1 - pan slot head ai-15
+    2300084: Assem1 - pan slot head ai-2
+    2300086: Assem1 - pan slot head ai-3
+    2300088: Assem1 - pan slot head ai-4
+    2300090: Assem1 - pan slot head ai-5
+    2300092: Assem1 - pan slot head ai-6
+    2300094: Assem1 - pan slot head ai-7
+    2300096: Assem1 - pan slot head ai-8
+    2300098: Assem1 - pan slot head ai-9
+    2300100: Assem1 - Prop 3inch-1
+    2300102: Assem1 - Pulley Assembly w-reflective tape-1 Ball Retainer Inne
+    2300104: Assem1 - Pulley Assembly w-reflective tape-1 Ball Retainer Oute
+    2300106: Assem1 - Pulley Assembly w-reflective tape-1 Ball-1
+    2300108: Assem1 - Pulley Assembly w-reflective tape-1 Ball-13
+    2300110: Assem1 - Pulley Assembly w-reflective tape-1 Ball-25
+    2300112: Assem1 - Pulley Assembly w-reflective tape-1 Ball-26
+    2300114: Assem1 - Pulley Assembly w-reflective tape-1 Ball-27
+    2300116: Assem1 - Pulley Assembly w-reflective tape-1 Ball-28
+    2300118: Assem1 - Pulley Assembly w-reflective tape-1 Ball-29
+    2300120: Assem1 - Pulley Assembly w-reflective tape-1 Ball-30
+    2300122: Assem1 - Pulley Assembly w-reflective tape-1 Ball-31
+    2300124: Assem1 - Pulley Assembly w-reflective tape-1 Ball-32
+    2300126: Assem1 - Pulley Assembly w-reflective tape-1 Ball-33
+    2300128: Assem1 - Pulley Assembly w-reflective tape-1 Ball-34
+    2300130: Assem1 - Pulley Assembly w-reflective tape-1 Ball-35
+    2300132: Assem1 - Pulley Assembly w-reflective tape-1 Ball-36
+    2300134: Assem1 - Pulley Assembly w-reflective tape-1 Ball-37
+    2300136: Assem1 - Pulley Assembly w-reflective tape-1 Ball-38
+    2300138: Assem1 - Pulley Assembly w-reflective tape-1 Ball-39
+    2300140: Assem1 - Pulley Assembly w-reflective tape-1 Ball-40
+    2300142: Assem1 - Pulley Assembly w-reflective tape-1 Ball-41
+    2300144: Assem1 - Pulley Assembly w-reflective tape-1 Ball-42
+    2300146: Assem1 - Pulley Assembly w-reflective tape-1 Ball-43
+    2300148: Assem1 - Pulley Assembly w-reflective tape-1 Ball-44
+    2300150: Assem1 - Pulley Assembly w-reflective tape-1 Ball-45
+    2300152: Assem1 - Pulley Assembly w-reflective tape-1 Ball-46
+    2300154: Assem1 - Pulley Assembly w-reflective tape-1 Housing w-reflecti
+    2300156: Assem1 - Pulley Assembly-1 Ball Retainer Inner Sleeve-1
+    2300158: Assem1 - Pulley Assembly-1 Ball Retainer Outer Sleeve-1
+    2300160: Assem1 - Pulley Assembly-1 Ball-1
+    2300162: Assem1 - Pulley Assembly-1 Ball-10
+    2300164: Assem1 - Pulley Assembly-1 Ball-11
+    2300166: Assem1 - Pulley Assembly-1 Ball-12
+    2300168: Assem1 - Pulley Assembly-1 Ball-13
+    2300170: Assem1 - Pulley Assembly-1 Ball-14
+    2300172: Assem1 - Pulley Assembly-1 Ball-15
+    2300174: Assem1 - Pulley Assembly-1 Ball-16
+    2300176: Assem1 - Pulley Assembly-1 Ball-17
+    2300178: Assem1 - Pulley Assembly-1 Ball-18
+    2300180: Assem1 - Pulley Assembly-1 Ball-19
+    2300182: Assem1 - Pulley Assembly-1 Ball-2
+    2300184: Assem1 - Pulley Assembly-1 Ball-20
+    2300186: Assem1 - Pulley Assembly-1 Ball-21
+    2300188: Assem1 - Pulley Assembly-1 Ball-22
+    2300190: Assem1 - Pulley Assembly-1 Ball-23
+    2300192: Assem1 - Pulley Assembly-1 Ball-24
+    2300194: Assem1 - Pulley Assembly-1 Ball-3
+    2300196: Assem1 - Pulley Assembly-1 Ball-4
+    2300198: Assem1 - Pulley Assembly-1 Ball-5
+    2300200: Assem1 - Pulley Assembly-1 Ball-6
+    2300202: Assem1 - Pulley Assembly-1 Ball-7
+    2300204: Assem1 - Pulley Assembly-1 Ball-8
+    2300206: Assem1 - Pulley Assembly-1 Ball-9
+    2300208: Assem1 - Pulley Assembly-1 Housing-1
+    2300210: Assem1 - Rotation Sensor Board-1
+    2300212: Assem1 - Rotation Sensor Board-2
+    2300214: Assem1 - Support Arm 1 2 Sensor Holes V2-1
+    3300000: Assem1 - 90-deg bracket-1
+    3300002: Assem1 - 90-deg bracket-2
+    3300004: Assem1 - 90-deg bracket-3
+    3300006: Assem1 - AEV Motor-1
+    3300008: Assem1 - Arduino-1
+    3300010: Assem1 - Battery Pack Clamp Plate Narrow-1
+    3300012: Assem1 - Battery Pack-1 Battery Sleeve-1
+    3300014: Assem1 - Battery Pack-1 Battery-1
+    3300016: Assem1 - Battery Pack-1 Battery-2
+    3300018: Assem1 - Battery Pack-1 Kapton Tape-1
+    3300020: Assem1 - Battery Spacer-1
+    3300022: Assem1 - Battery Spacer-2
+    3300024: Assem1 - Battery Spacer-3
+    3300026: Assem1 - Battery Spacer-4
+    3300028: Assem1 - hex bolt ai-1
+    3300030: Assem1 - hex bolt ai-2
+    3300032: Assem1 - Large Rectangle-4
+    3300034: Assem1 - machine screw nut hex ai-10
+    3300036: Assem1 - machine screw nut hex ai-11
+    3300038: Assem1 - machine screw nut hex ai-12
+    3300040: Assem1 - machine screw nut hex ai-14
+    3300042: Assem1 - machine screw nut hex ai-15
+    3300044: Assem1 - machine screw nut hex ai-16
+    3300046: Assem1 - machine screw nut hex ai-17
+    3300048: Assem1 - machine screw nut hex ai-18
+    3300050: Assem1 - machine screw nut hex ai-19
+    3300052: Assem1 - machine screw nut hex ai-2
+    3300054: Assem1 - machine screw nut hex ai-3
+    3300056: Assem1 - machine screw nut hex ai-4
+    3300058: Assem1 - machine screw nut hex ai-5
+    3300060: Assem1 - machine screw nut hex ai-6
+    3300062: Assem1 - machine screw nut hex ai-7
+    3300064: Assem1 - machine screw nut hex ai-8
+    3300066: Assem1 - machine screw nut hex ai-9
+    3300068: Assem1 - Motor Mount Clip Aluminum-1
+    3300070: Assem1 - pan slot head ai-1
+    3300072: Assem1 - pan slot head ai-10
+    3300074: Assem1 - pan slot head ai-11
+    3300076: Assem1 - pan slot head ai-12
+    3300078: Assem1 - pan slot head ai-13
+    3300080: Assem1 - pan slot head ai-14
+    3300082: Assem1 - pan slot head ai-15
+    3300084: Assem1 - pan slot head ai-2
+    3300086: Assem1 - pan slot head ai-3
+    3300088: Assem1 - pan slot head ai-4
+    3300090: Assem1 - pan slot head ai-5
+    3300092: Assem1 - pan slot head ai-6
+    3300094: Assem1 - pan slot head ai-7
+    3300096: Assem1 - pan slot head ai-8
+    3300098: Assem1 - pan slot head ai-9
+    3300100: Assem1 - Prop 3inch-1
+    3300102: Assem1 - Pulley Assembly w-reflective tape-1 Ball Retainer Inne
+    3300104: Assem1 - Pulley Assembly w-reflective tape-1 Ball Retainer Oute
+    3300106: Assem1 - Pulley Assembly w-reflective tape-1 Ball-1
+    3300108: Assem1 - Pulley Assembly w-reflective tape-1 Ball-13
+    3300110: Assem1 - Pulley Assembly w-reflective tape-1 Ball-25
+    3300112: Assem1 - Pulley Assembly w-reflective tape-1 Ball-26
+    3300114: Assem1 - Pulley Assembly w-reflective tape-1 Ball-27
+    3300116: Assem1 - Pulley Assembly w-reflective tape-1 Ball-28
+    3300118: Assem1 - Pulley Assembly w-reflective tape-1 Ball-29
+    3300120: Assem1 - Pulley Assembly w-reflective tape-1 Ball-30
+    3300122: Assem1 - Pulley Assembly w-reflective tape-1 Ball-31
+    3300124: Assem1 - Pulley Assembly w-reflective tape-1 Ball-32
+    3300126: Assem1 - Pulley Assembly w-reflective tape-1 Ball-33
+    3300128: Assem1 - Pulley Assembly w-reflective tape-1 Ball-34
+    3300130: Assem1 - Pulley Assembly w-reflective tape-1 Ball-35
+    3300132: Assem1 - Pulley Assembly w-reflective tape-1 Ball-36
+    3300134: Assem1 - Pulley Assembly w-reflective tape-1 Ball-37
+    3300136: Assem1 - Pulley Assembly w-reflective tape-1 Ball-38
+    3300138: Assem1 - Pulley Assembly w-reflective tape-1 Ball-39
+    3300140: Assem1 - Pulley Assembly w-reflective tape-1 Ball-40
+    3300142: Assem1 - Pulley Assembly w-reflective tape-1 Ball-41
+    3300144: Assem1 - Pulley Assembly w-reflective tape-1 Ball-42
+    3300146: Assem1 - Pulley Assembly w-reflective tape-1 Ball-43
+    3300148: Assem1 - Pulley Assembly w-reflective tape-1 Ball-44
+    3300150: Assem1 - Pulley Assembly w-reflective tape-1 Ball-45
+    3300152: Assem1 - Pulley Assembly w-reflective tape-1 Ball-46
+    3300154: Assem1 - Pulley Assembly w-reflective tape-1 Housing w-reflecti
+    3300156: Assem1 - Pulley Assembly-1 Ball Retainer Inner Sleeve-1
+    3300158: Assem1 - Pulley Assembly-1 Ball Retainer Outer Sleeve-1
+    3300160: Assem1 - Pulley Assembly-1 Ball-1
+    3300162: Assem1 - Pulley Assembly-1 Ball-10
+    3300164: Assem1 - Pulley Assembly-1 Ball-11
+    3300166: Assem1 - Pulley Assembly-1 Ball-12
+    3300168: Assem1 - Pulley Assembly-1 Ball-13
+    3300170: Assem1 - Pulley Assembly-1 Ball-14
+    3300172: Assem1 - Pulley Assembly-1 Ball-15
+    3300174: Assem1 - Pulley Assembly-1 Ball-16
+    3300176: Assem1 - Pulley Assembly-1 Ball-17
+    3300178: Assem1 - Pulley Assembly-1 Ball-18
+    3300180: Assem1 - Pulley Assembly-1 Ball-19
+    3300182: Assem1 - Pulley Assembly-1 Ball-2
+    3300184: Assem1 - Pulley Assembly-1 Ball-20
+    3300186: Assem1 - Pulley Assembly-1 Ball-21
+    3300188: Assem1 - Pulley Assembly-1 Ball-22
+    3300190: Assem1 - Pulley Assembly-1 Ball-23
+    3300192: Assem1 - Pulley Assembly-1 Ball-24
+    3300194: Assem1 - Pulley Assembly-1 Ball-3
+    3300196: Assem1 - Pulley Assembly-1 Ball-4
+    3300198: Assem1 - Pulley Assembly-1 Ball-5
+    3300200: Assem1 - Pulley Assembly-1 Ball-6
+    3300202: Assem1 - Pulley Assembly-1 Ball-7
+    3300204: Assem1 - Pulley Assembly-1 Ball-8
+    3300206: Assem1 - Pulley Assembly-1 Ball-9
+    3300208: Assem1 - Pulley Assembly-1 Housing-1
+    3300210: Assem1 - Rotation Sensor Board-1
+    3300212: Assem1 - Rotation Sensor Board-2
+    3300214: Assem1 - Support Arm 1 2 Sensor Holes V2-1
+    4300000: Assem1 - Support Arm 1 2 Sensor Holes V2-1
+    4300002: Assem1 - Rotation Sensor Board-2
+    4300004: Assem1 - Rotation Sensor Board-1
+    4300006: Assem1 - Pulley Assembly-1 Housing-1
+    4300008: Assem1 - Pulley Assembly-1 Ball-24
+    4300010: Assem1 - Pulley Assembly-1 Ball-23
+    4300012: Assem1 - Pulley Assembly-1 Ball-22
+    4300014: Assem1 - Pulley Assembly-1 Ball-21
+    4300016: Assem1 - Pulley Assembly-1 Ball-20
+    4300018: Assem1 - Pulley Assembly-1 Ball-19
+    4300020: Assem1 - Pulley Assembly-1 Ball-18
+    4300022: Assem1 - Pulley Assembly-1 Ball-17
+    4300024: Assem1 - Pulley Assembly-1 Ball-16
+    4300026: Assem1 - Pulley Assembly-1 Ball-15
+    4300028: Assem1 - Pulley Assembly-1 Ball-14
+    4300030: Assem1 - Pulley Assembly-1 Ball-13
+    4300032: Assem1 - Pulley Assembly-1 Ball-12
+    4300034: Assem1 - Pulley Assembly-1 Ball-11
+    4300036: Assem1 - Pulley Assembly-1 Ball-10
+    4300038: Assem1 - Pulley Assembly-1 Ball-9
+    4300040: Assem1 - Pulley Assembly-1 Ball-8
+    4300042: Assem1 - Pulley Assembly-1 Ball-7
+    4300044: Assem1 - Pulley Assembly-1 Ball-6
+    4300046: Assem1 - Pulley Assembly-1 Ball-5
+    4300048: Assem1 - Pulley Assembly-1 Ball-4
+    4300050: Assem1 - Pulley Assembly-1 Ball-3
+    4300052: Assem1 - Pulley Assembly-1 Ball-2
+    4300054: Assem1 - Pulley Assembly-1 Ball-1
+    4300056: Assem1 - Pulley Assembly-1 Ball Retainer Outer Sleeve-1
+    4300058: Assem1 - Pulley Assembly-1 Ball Retainer Inner Sleeve-1
+    4300060: Assem1 - Pulley Assembly w-reflective tape-1 Housing w-reflecti
+    4300062: Assem1 - Pulley Assembly w-reflective tape-1 Ball-46
+    4300064: Assem1 - Pulley Assembly w-reflective tape-1 Ball-45
+    4300066: Assem1 - Pulley Assembly w-reflective tape-1 Ball-44
+    4300068: Assem1 - Pulley Assembly w-reflective tape-1 Ball-43
+    4300070: Assem1 - Pulley Assembly w-reflective tape-1 Ball-42
+    4300072: Assem1 - Pulley Assembly w-reflective tape-1 Ball-41
+    4300074: Assem1 - Pulley Assembly w-reflective tape-1 Ball-40
+    4300076: Assem1 - Pulley Assembly w-reflective tape-1 Ball-39
+    4300078: Assem1 - Pulley Assembly w-reflective tape-1 Ball-38
+    4300080: Assem1 - Pulley Assembly w-reflective tape-1 Ball-37
+    4300082: Assem1 - Pulley Assembly w-reflective tape-1 Ball-36
+    4300084: Assem1 - Pulley Assembly w-reflective tape-1 Ball-35
+    4300086: Assem1 - Pulley Assembly w-reflective tape-1 Ball-34
+    4300088: Assem1 - Pulley Assembly w-reflective tape-1 Ball-33
+    4300090: Assem1 - Pulley Assembly w-reflective tape-1 Ball-32
+    4300092: Assem1 - Pulley Assembly w-reflective tape-1 Ball-31
+    4300094: Assem1 - Pulley Assembly w-reflective tape-1 Ball-30
+    4300096: Assem1 - Pulley Assembly w-reflective tape-1 Ball-29
+    4300098: Assem1 - Pulley Assembly w-reflective tape-1 Ball-28
+    4300100: Assem1 - Pulley Assembly w-reflective tape-1 Ball-27
+    4300102: Assem1 - Pulley Assembly w-reflective tape-1 Ball-26
+    4300104: Assem1 - Pulley Assembly w-reflective tape-1 Ball-25
+    4300106: Assem1 - Pulley Assembly w-reflective tape-1 Ball-13
+    4300108: Assem1 - Pulley Assembly w-reflective tape-1 Ball-1
+    4300110: Assem1 - Pulley Assembly w-reflective tape-1 Ball Retainer Oute
+    4300112: Assem1 - Pulley Assembly w-reflective tape-1 Ball Retainer Inne
+    4300114: Assem1 - Prop 3inch-1
+    4300116: Assem1 - pan slot head ai-15
+    4300118: Assem1 - pan slot head ai-14
+    4300120: Assem1 - pan slot head ai-13
+    4300122: Assem1 - pan slot head ai-12
+    4300124: Assem1 - pan slot head ai-11
+    4300126: Assem1 - pan slot head ai-10
+    4300128: Assem1 - pan slot head ai-9
+    4300130: Assem1 - pan slot head ai-8
+    4300132: Assem1 - pan slot head ai-7
+    4300134: Assem1 - pan slot head ai-6
+    4300136: Assem1 - pan slot head ai-5
+    4300138: Assem1 - pan slot head ai-4
+    4300140: Assem1 - pan slot head ai-3
+    4300142: Assem1 - pan slot head ai-2
+    4300144: Assem1 - pan slot head ai-1
+    4300146: Assem1 - Motor Mount Clip Aluminum-1
+    4300148: Assem1 - machine screw nut hex ai-19
+    4300150: Assem1 - machine screw nut hex ai-18
+    4300152: Assem1 - machine screw nut hex ai-17
+    4300154: Assem1 - machine screw nut hex ai-16
+    4300156: Assem1 - machine screw nut hex ai-15
+    4300158: Assem1 - machine screw nut hex ai-14
+    4300160: Assem1 - machine screw nut hex ai-12
+    4300162: Assem1 - machine screw nut hex ai-11
+    4300164: Assem1 - machine screw nut hex ai-10
+    4300166: Assem1 - machine screw nut hex ai-9
+    4300168: Assem1 - machine screw nut hex ai-8
+    4300170: Assem1 - machine screw nut hex ai-7
+    4300172: Assem1 - machine screw nut hex ai-6
+    4300174: Assem1 - machine screw nut hex ai-5
+    4300176: Assem1 - machine screw nut hex ai-4
+    4300178: Assem1 - machine screw nut hex ai-3
+    4300180: Assem1 - machine screw nut hex ai-2
+    4300182: Assem1 - Large Rectangle-4
+    4300184: Assem1 - hex bolt ai-2
+    4300186: Assem1 - hex bolt ai-1
+    4300188: Assem1 - Battery Spacer-4
+    4300190: Assem1 - Battery Spacer-3
+    4300192: Assem1 - Battery Spacer-2
+    4300194: Assem1 - Battery Spacer-1
+    4300196: Assem1 - Battery Pack-1 Kapton Tape-1
+    4300198: Assem1 - Battery Pack-1 Battery-2
+    4300200: Assem1 - Battery Pack-1 Battery-1
+    4300202: Assem1 - Battery Pack-1 Battery Sleeve-1
+    4300204: Assem1 - Battery Pack Clamp Plate Narrow-1
+    4300206: Assem1 - Arduino-1
+    4300208: Assem1 - AEV Motor-1
+    4300210: Assem1 - 90-deg bracket-3
+    4300212: Assem1 - 90-deg bracket-2
+    4300214: Assem1 - 90-deg bracket-1
+    6400000: Assem1 - 90-deg bracket-1
+    6400002: Assem1 - 90-deg bracket-2
+    6400004: Assem1 - 90-deg bracket-3
+    6400006: Assem1 - AEV Motor-1
+    6400008: Assem1 - Arduino-1
+    6400010: Assem1 - Battery Pack Clamp Plate Narrow-1
+    6400012: Assem1 - Battery Pack-1 Battery Sleeve-1
+    6400014: Assem1 - Battery Pack-1 Battery-1
+    6400016: Assem1 - Battery Pack-1 Battery-2
+    6400018: Assem1 - Battery Pack-1 Kapton Tape-1
+    6400020: Assem1 - Battery Spacer-1
+    6400022: Assem1 - Battery Spacer-2
+    6400024: Assem1 - Battery Spacer-3
+    6400026: Assem1 - Battery Spacer-4
+    6400028: Assem1 - hex bolt ai-1
+    6400030: Assem1 - hex bolt ai-2
+    6400032: Assem1 - Large Rectangle-4
+    6400034: Assem1 - machine screw nut hex ai-10
+    6400036: Assem1 - machine screw nut hex ai-11
+    6400038: Assem1 - machine screw nut hex ai-12
+    6400040: Assem1 - machine screw nut hex ai-14
+    6400042: Assem1 - machine screw nut hex ai-15
+    6400044: Assem1 - machine screw nut hex ai-16
+    6400046: Assem1 - machine screw nut hex ai-17
+    6400048: Assem1 - machine screw nut hex ai-18
+    6400050: Assem1 - machine screw nut hex ai-19
+    6400052: Assem1 - machine screw nut hex ai-2
+    6400054: Assem1 - machine screw nut hex ai-3
+    6400056: Assem1 - machine screw nut hex ai-4
+    6400058: Assem1 - machine screw nut hex ai-5
+    6400060: Assem1 - machine screw nut hex ai-6
+    6400062: Assem1 - machine screw nut hex ai-7
+    6400064: Assem1 - machine screw nut hex ai-8
+    6400066: Assem1 - machine screw nut hex ai-9
+    6400068: Assem1 - Motor Mount Clip Aluminum-1
+    6400070: Assem1 - pan slot head ai-1
+    6400072: Assem1 - pan slot head ai-10
+    6400074: Assem1 - pan slot head ai-11
+    6400076: Assem1 - pan slot head ai-12
+    6400078: Assem1 - pan slot head ai-13
+    6400080: Assem1 - pan slot head ai-14
+    6400082: Assem1 - pan slot head ai-15
+    6400084: Assem1 - pan slot head ai-2
+    6400086: Assem1 - pan slot head ai-3
+    6400088: Assem1 - pan slot head ai-4
+    6400090: Assem1 - pan slot head ai-5
+    6400092: Assem1 - pan slot head ai-6
+    6400094: Assem1 - pan slot head ai-7
+    6400096: Assem1 - pan slot head ai-8
+    6400098: Assem1 - pan slot head ai-9
+    6400100: Assem1 - Prop 3inch-1
+    6400102: Assem1 - Pulley Assembly w-reflective tape-1 Ball Retainer Inne
+    6400104: Assem1 - Pulley Assembly w-reflective tape-1 Ball Retainer Oute
+    6400106: Assem1 - Pulley Assembly w-reflective tape-1 Ball-1
+    6400108: Assem1 - Pulley Assembly w-reflective tape-1 Ball-13
+    6400110: Assem1 - Pulley Assembly w-reflective tape-1 Ball-25
+    6400112: Assem1 - Pulley Assembly w-reflective tape-1 Ball-26
+    6400114: Assem1 - Pulley Assembly w-reflective tape-1 Ball-27
+    6400116: Assem1 - Pulley Assembly w-reflective tape-1 Ball-28
+    6400118: Assem1 - Pulley Assembly w-reflective tape-1 Ball-29
+    6400120: Assem1 - Pulley Assembly w-reflective tape-1 Ball-30
+    6400122: Assem1 - Pulley Assembly w-reflective tape-1 Ball-31
+    6400124: Assem1 - Pulley Assembly w-reflective tape-1 Ball-32
+    6400126: Assem1 - Pulley Assembly w-reflective tape-1 Ball-33
+    6400128: Assem1 - Pulley Assembly w-reflective tape-1 Ball-34
+    6400130: Assem1 - Pulley Assembly w-reflective tape-1 Ball-35
+    6400132: Assem1 - Pulley Assembly w-reflective tape-1 Ball-36
+    6400134: Assem1 - Pulley Assembly w-reflective tape-1 Ball-37
+    6400136: Assem1 - Pulley Assembly w-reflective tape-1 Ball-38
+    6400138: Assem1 - Pulley Assembly w-reflective tape-1 Ball-39
+    6400140: Assem1 - Pulley Assembly w-reflective tape-1 Ball-40
+    6400142: Assem1 - Pulley Assembly w-reflective tape-1 Ball-41
+    6400144: Assem1 - Pulley Assembly w-reflective tape-1 Ball-42
+    6400146: Assem1 - Pulley Assembly w-reflective tape-1 Ball-43
+    6400148: Assem1 - Pulley Assembly w-reflective tape-1 Ball-44
+    6400150: Assem1 - Pulley Assembly w-reflective tape-1 Ball-45
+    6400152: Assem1 - Pulley Assembly w-reflective tape-1 Ball-46
+    6400154: Assem1 - Pulley Assembly w-reflective tape-1 Housing w-reflecti
+    6400156: Assem1 - Pulley Assembly-1 Ball Retainer Inner Sleeve-1
+    6400158: Assem1 - Pulley Assembly-1 Ball Retainer Outer Sleeve-1
+    6400160: Assem1 - Pulley Assembly-1 Ball-1
+    6400162: Assem1 - Pulley Assembly-1 Ball-10
+    6400164: Assem1 - Pulley Assembly-1 Ball-11
+    6400166: Assem1 - Pulley Assembly-1 Ball-12
+    6400168: Assem1 - Pulley Assembly-1 Ball-13
+    6400170: Assem1 - Pulley Assembly-1 Ball-14
+    6400172: Assem1 - Pulley Assembly-1 Ball-15
+    6400174: Assem1 - Pulley Assembly-1 Ball-16
+    6400176: Assem1 - Pulley Assembly-1 Ball-17
+    6400178: Assem1 - Pulley Assembly-1 Ball-18
+    6400180: Assem1 - Pulley Assembly-1 Ball-19
+    6400182: Assem1 - Pulley Assembly-1 Ball-2
+    6400184: Assem1 - Pulley Assembly-1 Ball-20
+    6400186: Assem1 - Pulley Assembly-1 Ball-21
+    6400188: Assem1 - Pulley Assembly-1 Ball-22
+    6400190: Assem1 - Pulley Assembly-1 Ball-23
+    6400192: Assem1 - Pulley Assembly-1 Ball-24
+    6400194: Assem1 - Pulley Assembly-1 Ball-3
+    6400196: Assem1 - Pulley Assembly-1 Ball-4
+    6400198: Assem1 - Pulley Assembly-1 Ball-5
+    6400200: Assem1 - Pulley Assembly-1 Ball-6
+    6400202: Assem1 - Pulley Assembly-1 Ball-7
+    6400204: Assem1 - Pulley Assembly-1 Ball-8
+    6400206: Assem1 - Pulley Assembly-1 Ball-9
+    6400208: Assem1 - Pulley Assembly-1 Housing-1
+    6400210: Assem1 - Rotation Sensor Board-1
+    6400212: Assem1 - Rotation Sensor Board-2
+    6400214: Assem1 - Support Arm 1 2 Sensor Holes V2-1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 180
+    normalImportMode: 0
+    tangentImportMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
